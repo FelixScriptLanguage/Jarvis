@@ -1,0 +1,1 @@
+python funasr_wss_client.py --host "127.0.0.1" --port 10095 --mode offline --chunk_size "5,10,5"
